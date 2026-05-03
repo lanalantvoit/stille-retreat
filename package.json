@@ -1,0 +1,24 @@
+{
+  "name": "new-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanalantvoit/fin-advisor-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lanalantvoit/fin-advisor-landing/issues"
+  },
+  "homepage": "https://github.com/lanalantvoit/fin-advisor-landing#readme",
+  "devDependencies": {
+    "puppeteer": "^24.42.0"
+  }
+}
